@@ -1,14 +1,9 @@
 .header{
     font-size: 12px;
     font-weight: bold;
-
-    #navItem{  
-        color: white;
-        &:hover{
-            color: $link-hover;
-        }
-    }
+    
 }
+
 
 .container00{
     min-height: 100vh;
@@ -31,6 +26,7 @@
 
 #button{
     padding: $padding-button;
+    border: 2px solid white;
 }
 
 .footer{
