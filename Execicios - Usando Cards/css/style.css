@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../imagens/backgroundLp.png);
+}
+.topLogo{
+    width: 180px;
+}
+
+.card{
+    width: 450px;
+    height: auto;
+}
+
+.fotter{
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
